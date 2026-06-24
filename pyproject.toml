@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-kk-camera-noise"
+version = "1.0.0"
+description = "KK Camera: a ComfyUI node for premium camera-style organic noise, micro contrast, warm tint, and vignette finishing."
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+readme = "README.md"
+keywords = ["comfyui", "camera-grain", "film-grain", "image-processing", "post-processing"]
+
+[tool.comfy]
+DisplayName = "KK Camera"
